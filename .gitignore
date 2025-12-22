@@ -1,0 +1,4 @@
+# Emscripten SDK
+emsdk/
+.emscripten
+.emsdk
