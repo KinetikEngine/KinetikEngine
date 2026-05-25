@@ -2,3 +2,8 @@
 emsdk/
 .emscripten
 .emsdk
+.vscode
+build/
+.DS_Store
+*
+ignore/
