@@ -1,0 +1,8 @@
+# Emscripten SDK
+emsdk/
+.emscripten
+.emsdk
+.vscode
+build/
+.DS_Store
+ignore/
