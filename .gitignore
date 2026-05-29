@@ -6,3 +6,10 @@ emsdk/
 build/
 .DS_Store
 ignore/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
