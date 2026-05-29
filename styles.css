@@ -1,0 +1,39 @@
+/* # color palette */
+/* 
+- Object
+
+{
+  "Dim Grey":"6E6F6F",
+  "Steel Blue":"0081D7",
+  "Graphite":"3D3C3D",
+  "Vivid Tangerine":"F68125",
+  "White":"FEFEFE"} 
+*/
+
+nav{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 30px;
+  /* justify-content: center; */
+  border-bottom: 1px solid rgba(40, 40, 40, 0.107);
+}
+
+.filler{
+  flex: 1;
+}
+
+#try-now{
+  font-size:small;
+  font-weight: 500;
+  border-radius: 30px;
+  border: 2px solid #0081D7;
+  padding: 10px 20px;
+  /* background-color: #bed0dc; */
+  color: #0081D7;
+}
+
+#try-now:hover{
+  transform: scale(105%);
+  transition: 200ms ease;
+}
